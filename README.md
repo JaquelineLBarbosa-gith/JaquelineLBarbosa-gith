@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou a Jaqueline Barbosa! 👋
 
-<!--
-**JaquelineLBarbosa-gith/JaquelineLBarbosa-gith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados em transição, apaixonada por transformar grandes volumes de dados em decisões estratégicas e visualizações claras.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 🎓 Pós-graduanda em Banco de Dados (IPOG).
+- 📈 Experiência sólida em processos de conformidade e controle operacional.
+- 💡 Foco atual: Power BI, SQL (Oracle, MySQL, PostgreSQL) e Python para análise de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades Técnicas
+- **Linguagens:** Python, SQL, DAX.
+- **Ferramentas:** Power BI, Excel Avançado, GitHub.
+- **Bancos de Dados:** Oracle, MySQL, PostgreSQL.
+
+## 📂 Projetos em Destaque
+- **Dashboard de Vendas e Receita:** Análise completa com indicadores de performance e tendências (Power BI).
+- **Projeto Diogo (Educação Financeira):** Estruturação de dados e curadoria para tornar o mercado de capitais acessível.
+
+## 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaqueline-barbosa-a50828376/)
