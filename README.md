@@ -3,13 +3,13 @@
 Analista de Dados em transição, apaixonada por transformar grandes volumes de dados em decisões estratégicas e visualizações claras.
 
 ## 🚀 Sobre mim
-- 🎓 Pós-graduanda em Banco de Dados (IPOG).
+- 🎓 Banco de Dados (IPOG).
 - 📈 Experiência sólida em processos de conformidade e controle operacional.
 - 💡 Foco atual: Power BI, SQL (Oracle, MySQL, PostgreSQL) e Python para análise de dados.
 
 ## 🛠️ Habilidades Técnicas
 - **Linguagens:** Python, SQL, DAX.
-- **Ferramentas:** Power BI, Excel Avançado, GitHub.
+- **Ferramentas:** Power BI, Excel, GitHub.
 - **Bancos de Dados:** Oracle, MySQL, PostgreSQL.
 
 ## 📂 Projetos em Destaque
