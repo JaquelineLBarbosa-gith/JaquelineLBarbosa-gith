@@ -1,4 +1,4 @@
-![Banner do LinkedIn](banner%20linkedin.jpg)
+![Banner do LinkedIn](capa.jfif)
 # Olá, eu sou a Jaqueline Barbosa! 👋
 
 Analista de Dados em transição, apaixonada por transformar grandes volumes de dados em decisões estratégicas e visualizações claras.
